@@ -36,6 +36,7 @@ header {
 }
 .nav-links li a:hover{
     color: #f97679;
+    font
 
 }
 iframe {
@@ -94,4 +95,14 @@ aside h1{
     color: black;
     cursor: pointer;
 }
-
+.heading {
+    color: red;
+    text-align: center;
+    font-family: "Monserrat", san-serif;
+}
+p{
+    padding: 15px;
+    font-family: "Monserrat", san-serif;
+    color: white;
+    font-size: 20px;
+}
